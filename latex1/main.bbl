@@ -1,0 +1,23 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%  This bbl file is created by jecon.bst ver.2.7
+%  The latest jecon.bst is available at
+%  <http://shirotakeda.org/home-ja/tex-ja/jecon-ja.html>
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{thebibliography}{xxx}
+
+
+
+\harvarditem[Akamatsu et~al.]{Akamatsu, Fujishima and Takayama}{2017}{akamatsu2017discrete}
+Akamatsu, T., Fujishima, S., and Takayama, Y. (2017) ``{Discrete-space agglomeration model with social interactions: Multiplicity, stability, and continuous limit of equilibria},'' \textit{Journal of Mathematical Economics}, Vol. 69, pp. 22--37.
+
+\harvarditem[達哉ら]{達哉・雅也・雄貴・朗義}{2022}{sugimoto2022chiiki}
+達哉杉本・雅也杉山・雄貴高山・朗義髙木 (2022) ``地域間公共交通機関の利便性向上の長期的影響評価: 定量的空間経済学に基づく空間経済分析,''{ 交通工学論文集 (特集号)}, Vol. 8, No.2, pp.222--231．
+
+
+\end{thebibliography}
+
+
